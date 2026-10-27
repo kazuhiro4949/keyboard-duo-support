@@ -30,6 +30,8 @@ kazuhiro4949（以下「私たち」）は、iOS アプリ「Keyboard Duo」と�
 
 これらはキーボードの中にだけ保存されます。「Keyboard Duo」アプリ本体を含め、ほかのアプリから読み取られることはありません。本アプリを削除すると、これらの情報も削除されます。
 
+また、変換候補に出すために、iOS の「ユーザ辞書」（「設定」→「一般」→「キーボード」→「ユーザ辞書」）に登録された単語をキーボードの中で読み取ります。読み取った単語は変換にだけ使い、保存したり、端末の外に送信したりすることはありません。
+
 ## 4. アプリ本体について
 
 「Keyboard Duo」アプリ本体は、キーボードの使い方と設定の案内を表示するものです。キーボードで入力した内容、変換の学習データ、キーボードの設定には一切アクセスしません。アプリ内の「試してみる」欄に入力した文字も、保存や送信はしません。
@@ -87,6 +89,8 @@ To work, the keyboards keep the following only on your device. It is never sent 
 - Keyboard settings: the keyboard layout, whether the composition preview is shown, and whether composing text is entered without the underline
 
 This information is kept inside the keyboards and cannot be read by other apps, including the Keyboard Duo app itself. Deleting the App deletes it.
+
+The Japanese keyboard also reads the words in iOS's user dictionary (Settings > General > Keyboard > Text Replacement) to suggest them as conversion candidates. They are used only for conversion, and are neither stored nor sent off the device.
 
 ## 4. The Keyboard Duo app
 
