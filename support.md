@@ -1,12 +1,12 @@
-# Keyboard Duo サポート
+# Fit Keyboard サポート
 
-Keyboard Duo は、iPhone Duo のための日本語キーボードです。閉じているときは片手で、開いているときは左右の親指それぞれのキーボードで入力できます。英語の QWERTY キーボード「Keyboard Duo English」も含まれています。
+Fit Keyboard は、画面に合わせて配置を変えられる日本語キーボードです。折りたたみ式の iPhone では、閉じているときは片手で、開いているときは左右の親指それぞれのキーボードで入力できます。英語の QWERTY キーボード「Fit Keyboard English」も含まれています。
 
 ## はじめかた
 
 1. 「設定」アプリを開き、「一般」→「キーボード」→「キーボード」→「新しいキーボードを追加」を選びます。
-2. 「Keyboard Duo」と「Keyboard Duo English」を選んで追加します。
-3. 文字を入力するときに 🌐 キーを押して、Keyboard Duo に切り替えます。🌐 キーを長押しすると、キーボードの一覧から選べます。
+2. 「Fit Keyboard」と「Fit Keyboard English」を選んで追加します。
+3. 文字を入力するときに 🌐 キーを押して、Fit Keyboard に切り替えます。🌐 キーを長押しすると、キーボードの一覧から選べます。
 
 「フルアクセスを許可」をオンにする必要はありません。
 
@@ -23,7 +23,7 @@ Keyboard Duo は、iPhone Duo のための日本語キーボードです。閉�
 iOS の不具合により、変換中の文字（下線付きの文字）をタップすると消えることがあります。😀 キーを長押しして「下線なしで入力」をオンにすると、変換中の文字を普通の文字として入力するので、タップしても消えなくなります。
 
 **キーボードが一覧に出てきません。**
-「設定」→「一般」→「キーボード」→「キーボード」で、Keyboard Duo が追加されているか確かめてください。
+「設定」→「一般」→「キーボード」→「キーボード」で、Fit Keyboard が追加されているか確かめてください。
 
 **フルアクセスを許可する必要はありますか？**
 ありません。本アプリはフルアクセスを求めず、外部との通信も行いません。
@@ -41,21 +41,21 @@ GitHub Issues：https://github.com/kazuhiro4949/keyboard-duo-support/issues
 
 ---
 
-# Keyboard Duo Support
+# Fit Keyboard Support
 
-Keyboard Duo is a Japanese keyboard for iPhone Duo: one-handed when it's closed, and a keyboard for each thumb when it's open. It also includes an English QWERTY keyboard, Keyboard Duo English.
+Fit Keyboard is a Japanese keyboard that fits its layout to the screen. On a foldable iPhone, it's one-handed when the iPhone is closed, and a keyboard for each thumb when it's open. It also includes an English QWERTY keyboard, Fit Keyboard English.
 
 ## Getting started
 
 1. Open the Settings app and go to General > Keyboard > Keyboards > Add New Keyboard.
-2. Add Keyboard Duo and Keyboard Duo English.
-3. When typing, tap the 🌐 key to switch to Keyboard Duo, or hold it to choose from the list of keyboards.
+2. Add Fit Keyboard and Fit Keyboard English.
+3. When typing, tap the 🌐 key to switch to Fit Keyboard, or hold it to choose from the list of keyboards.
 
 You don't need to turn on Allow Full Access.
 
 ## Using the keyboard
 
-- **Layout**: Swipe sideways on the function keys at the sides (delete, space, return and others) to move the keyboard left, back to the full width, or right. When iPhone Duo is open, swiping further outward from the left or right splits it into two keyboards, one for each thumb. The layout is remembered separately for closed, open landscape, and open portrait.
+- **Layout**: Swipe sideways on the function keys at the sides (delete, space, return and others) to move the keyboard left, back to the full width, or right. When a foldable iPhone is open, swiping further outward from the left or right splits it into two keyboards, one for each thumb. The layout is remembered separately for closed, open landscape, and open portrait.
 - **Conversion**: Tap a candidate to choose it, or tap ∨ to see them all. After you choose one, likely next words are suggested.
 - **Composition preview**: The row above the candidates shows the text being composed. Tap it to move the cursor, or hold and drag for finer movement. Double-tap to select part of it, then convert or delete just that part. Swipe the row down to hide it, and swipe the candidates up to show it again.
 - **Emoji**: When nothing is being typed, the 😀 key opens the emoji picker, where you can also search emoji by their reading.
@@ -66,7 +66,7 @@ You don't need to turn on Allow Full Access.
 Due to an iOS issue, tapping text being converted (the underlined text) can make it disappear. Hold the 😀 key and turn on "下線なしで入力" (type without the underline) to enter it as normal text, so tapping it no longer removes it.
 
 **The keyboard isn't in the list.**
-Check that Keyboard Duo has been added in Settings > General > Keyboard > Keyboards.
+Check that Fit Keyboard has been added in Settings > General > Keyboard > Keyboards.
 
 **Do I need to allow Full Access?**
 No. The App does not request Full Access and does not use the network.
