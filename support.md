@@ -1,12 +1,12 @@
-# Fit Keyboard サポート
+# Flex Keyboard サポート
 
-Fit Keyboard は、画面に合わせて配置を変えられる日本語キーボードです。折りたたみ式の iPhone では、閉じているときは片手で、開いているときは左右の親指それぞれのキーボードで入力できます。英語の QWERTY キーボード「Fit Keyboard English」も含まれています。
+Flex Keyboard は、画面に合わせて配置を変えられる日本語キーボードです。折りたたみ式の iPhone では、閉じているときは片手で、開いているときは左右の親指それぞれのキーボードで入力できます。英語の QWERTY キーボード「Flex Keyboard English」も含まれています。
 
 ## はじめかた
 
 1. 「設定」アプリを開き、「一般」→「キーボード」→「キーボード」→「新しいキーボードを追加」を選びます。
-2. 「Fit Keyboard」と「Fit Keyboard English」を選んで追加します。
-3. 文字を入力するときに 🌐 キーを押して、Fit Keyboard に切り替えます。🌐 キーを長押しすると、キーボードの一覧から選べます。
+2. 「Flex Keyboard」と「Flex Keyboard English」を選んで追加します。
+3. 文字を入力するときに 🌐 キーを押して、Flex Keyboard に切り替えます。🌐 キーを長押しすると、キーボードの一覧から選べます。
 
 「フルアクセスを許可」をオンにする必要はありません。
 
@@ -20,10 +20,10 @@ Fit Keyboard は、画面に合わせて配置を変えられる日本語キー�
 ## よくある質問
 
 **変換中の文字をタップすると、文字が消えてしまいます。**
-iOS の不具合により、変換中の文字（下線付きの文字）をタップすると消えることがあります。😀 キーを長押しして「下線なしで入力」をオンにすると、変換中の文字を普通の文字として入力するので、タップしても消えなくなります。
+入力するアプリによっては、変換中の文字（下線付きの文字）をタップすると消えることがあります。😀 キーを長押しして「下線なしで入力」をオンにすると、変換中の文字を普通の文字として入力するので、タップしても消えなくなります。
 
 **キーボードが一覧に出てきません。**
-「設定」→「一般」→「キーボード」→「キーボード」で、Fit Keyboard が追加されているか確かめてください。
+「設定」→「一般」→「キーボード」→「キーボード」で、Flex Keyboard が追加されているか確かめてください。
 
 **フルアクセスを許可する必要はありますか？**
 ありません。本アプリはフルアクセスを求めず、外部との通信も行いません。
@@ -41,15 +41,15 @@ GitHub Issues：https://github.com/kazuhiro4949/keyboard-duo-support/issues
 
 ---
 
-# Fit Keyboard Support
+# Flex Keyboard Support
 
-Fit Keyboard is a Japanese keyboard that fits its layout to the screen. On a foldable iPhone, it's one-handed when the iPhone is closed, and a keyboard for each thumb when it's open. It also includes an English QWERTY keyboard, Fit Keyboard English.
+Flex Keyboard is a Japanese keyboard that fits its layout to the screen. On a foldable iPhone, it's one-handed when the iPhone is closed, and a keyboard for each thumb when it's open. It also includes an English QWERTY keyboard, Flex Keyboard English.
 
 ## Getting started
 
 1. Open the Settings app and go to General > Keyboard > Keyboards > Add New Keyboard.
-2. Add Fit Keyboard and Fit Keyboard English.
-3. When typing, tap the 🌐 key to switch to Fit Keyboard, or hold it to choose from the list of keyboards.
+2. Add Flex Keyboard and Flex Keyboard English.
+3. When typing, tap the 🌐 key to switch to Flex Keyboard, or hold it to choose from the list of keyboards.
 
 You don't need to turn on Allow Full Access.
 
@@ -63,10 +63,10 @@ You don't need to turn on Allow Full Access.
 ## FAQ
 
 **Tapping the text being converted makes it disappear.**
-Due to an iOS issue, tapping text being converted (the underlined text) can make it disappear. Hold the 😀 key and turn on "下線なしで入力" (type without the underline) to enter it as normal text, so tapping it no longer removes it.
+In some apps, tapping text being converted (the underlined text) can make it disappear. Hold the 😀 key and turn on "下線なしで入力" (type without the underline) to enter it as normal text, so tapping it no longer removes it.
 
 **The keyboard isn't in the list.**
-Check that Fit Keyboard has been added in Settings > General > Keyboard > Keyboards.
+Check that Flex Keyboard has been added in Settings > General > Keyboard > Keyboards.
 
 **Do I need to allow Full Access?**
 No. The App does not request Full Access and does not use the network.

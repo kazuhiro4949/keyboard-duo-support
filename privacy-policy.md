@@ -1,8 +1,8 @@
-# Fit Keyboard プライバシーポリシー
+# Flex Keyboard プライバシーポリシー
 
 最終更新日：2026年10月28日
 
-kazuhiro4949（以下「私たち」）は、iOS アプリ「Fit Keyboard」と、その中に含まれるキーボード「Fit Keyboard」「Fit Keyboard English」（以下まとめて「本アプリ」）における、利用者の情報の取り扱いを次のとおり定めます。
+kazuhiro4949（以下「私たち」）は、iOS アプリ「Flex Keyboard」と、その中に含まれるキーボード「Flex Keyboard」「Flex Keyboard English」（以下まとめて「本アプリ」）における、利用者の情報の取り扱いを次のとおり定めます。
 
 ## 1. 収集する情報
 
@@ -28,13 +28,13 @@ kazuhiro4949（以下「私たち」）は、iOS アプリ「Fit Keyboard」と�
 - 最近使った絵文字
 - キーボードの設定（キーボードの配置、変換中の文字のプレビューの表示、下線なしで入力するかどうか）
 
-これらはキーボードの中にだけ保存されます。「Fit Keyboard」アプリ本体を含め、ほかのアプリから読み取られることはありません。本アプリを削除すると、これらの情報も削除されます。
+これらはキーボードの中にだけ保存されます。「Flex Keyboard」アプリ本体を含め、ほかのアプリから読み取られることはありません。本アプリを削除すると、これらの情報も削除されます。
 
 また、変換候補に出すために、iOS の「ユーザ辞書」（「設定」→「一般」→「キーボード」→「ユーザ辞書」）に登録された単語をキーボードの中で読み取ります。読み取った単語は変換にだけ使い、保存したり、端末の外に送信したりすることはありません。
 
 ## 4. アプリ本体について
 
-「Fit Keyboard」アプリ本体は、キーボードの使い方と設定の案内を表示するものです。キーボードで入力した内容、変換の学習データ、キーボードの設定には一切アクセスしません。アプリ内の「試してみる」欄に入力した文字も、保存や送信はしません。
+「Flex Keyboard」アプリ本体は、キーボードの使い方と設定の案内を表示するものです。キーボードで入力した内容、変換の学習データ、キーボードの設定には一切アクセスしません。アプリ内の「試してみる」欄に入力した文字も、保存や送信はしません。
 
 ## 5. 第三者への提供
 
@@ -58,11 +58,11 @@ GitHub Issues：https://github.com/kazuhiro4949/keyboard-duo-support/issues
 
 ---
 
-# Fit Keyboard Privacy Policy
+# Flex Keyboard Privacy Policy
 
 Last updated: October 28, 2026
 
-This policy describes how kazuhiro4949 ("we") handles information in the iOS app "Fit Keyboard" and the keyboards it contains, "Fit Keyboard" and "Fit Keyboard English" (together, "the App").
+This policy describes how kazuhiro4949 ("we") handles information in the iOS app "Flex Keyboard" and the keyboards it contains, "Flex Keyboard" and "Flex Keyboard English" (together, "the App").
 
 ## 1. Information we collect
 
@@ -88,13 +88,13 @@ To work, the keyboards keep the following only on your device. It is never sent 
 - Recently used emoji
 - Keyboard settings: the keyboard layout, whether the composition preview is shown, and whether composing text is entered without the underline
 
-This information is kept inside the keyboards and cannot be read by other apps, including the Fit Keyboard app itself. Deleting the App deletes it.
+This information is kept inside the keyboards and cannot be read by other apps, including the Flex Keyboard app itself. Deleting the App deletes it.
 
 The Japanese keyboard also reads the words in iOS's user dictionary (Settings > General > Keyboard > Text Replacement) to suggest them as conversion candidates. They are used only for conversion, and are neither stored nor sent off the device.
 
-## 4. The Fit Keyboard app
+## 4. The Flex Keyboard app
 
-The Fit Keyboard app shows how to set up and use the keyboards. It does not access anything typed with the keyboards, the conversion learning data, or the keyboard settings. Text entered in the app's "Try it" field is not stored or sent anywhere.
+The Flex Keyboard app shows how to set up and use the keyboards. It does not access anything typed with the keyboards, the conversion learning data, or the keyboard settings. Text entered in the app's "Try it" field is not stored or sent anywhere.
 
 ## 5. Sharing with third parties
 
